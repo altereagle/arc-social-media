@@ -1,5 +1,5 @@
 {
-  "name": "arc-social-media",
+  "name": "arc.microservice-social-media",
   "version": "1.0.0",
   "description": "Social Media Integration for Arc",
   "main": "index.js",
@@ -8,17 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/altereagle/arc-social-media.git"
+    "url": "git+https://github.com/altereagle/arc.microservice-social-media.git"
   },
   "keywords": [
     "Arc",
     "Social",
-    "Media"
+    "Media",
+    "Microservice"
   ],
   "author": "Kendell Joseph",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/altereagle/arc-social-media/issues"
+    "url": "https://github.com/altereagle/arc.microservice-social-media/issues"
   },
-  "homepage": "https://github.com/altereagle/arc-social-media#readme"
+  "homepage": "https://github.com/altereagle/arc.microservice-social-media#readme"
 }
